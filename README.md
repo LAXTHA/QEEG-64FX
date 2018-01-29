@@ -1,6 +1,6 @@
 # QEEG-64FX
 
-![QEEG-64FX](http://laxtha.net/wp-content/uploads/2017/03/Featured_QEEG-64FX_600x600.jpg)
+![QEEG-64FX](Images/Featured_QEEG-64FX_600x600.jpg)
 ### Features
 - EEG Channel Options : from 8ch to 64ch. ( 8ch, 16ch, 24ch, 32ch, 40ch, 48ch, 56ch, 64ch )
 - Monoplar 64 ch : EEG, Selectable EEG Reference A1, A2,A1+A2, Cz.
@@ -20,6 +20,6 @@
 - Custom User Application S/W Development Avaliable by using [LXDeviceAPI](https://github.com/LAXTHA/LXDeviceAPI "LXDeviceAPI GitHub"). 
 
 
-![EEG Cap with QEEG-64FX](http://laxtha.net/wp-content/uploads/2018/01/EEGCap_QEEG-64FX_Connection_780x780.png)
+![EEG Cap with QEEG-64FX](Images/EEGCap_QEEG-64FX_Connection_780x780.png)
 
 ## Full Documentations : http://laxtha.net/qeeg-64fx/
