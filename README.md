@@ -16,7 +16,7 @@
 - Auto Remote Firmware Update.
 - Both EEG Cap Electrodes and Disk Electrodes can be used.
 - Low Power, Portable, Easy Maintenance, Easy Operations.
-- Completely Integrated with TeleScan S/W.  
+- Completely Integrated with [TeleScan S/W](http://laxtha.net/telescan "TeleScan All About.").  
 - Custom User Application S/W Development Avaliable by using [LXDeviceAPI](https://github.com/LAXTHA/LXDeviceAPI "LXDeviceAPI GitHub"). 
 
 
