@@ -17,7 +17,7 @@
 - Both EEG Cap Electrodes and Disk Electrodes can be used.
 - Low Power, Portable, Easy Maintenance, Easy Operations.
 - Completely Integrated with TeleScan S/W.  
-- Custom User Application S/W Development Avaliable by using [LXDeviceAPI](https://github.com/LAXTHA/LXDeviceAPI "LXDeviceAPI GitHub"){: target="_blank"}. 
+- Custom User Application S/W Development Avaliable by using [LXDeviceAPI](https://github.com/LAXTHA/LXDeviceAPI "LXDeviceAPI GitHub"). 
 
 
 ![EEG Cap with QEEG-64FX](http://laxtha.net/wp-content/uploads/2018/01/EEGCap_QEEG-64FX_Connection_780x780.png)
